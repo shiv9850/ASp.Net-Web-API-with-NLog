@@ -1,0 +1,5 @@
+2019-09-28 00:11:43.4276|DEBUG|Logging.Controllers.ValuesController|Debug 
+2019-09-28 00:11:43.5647|INFO|Logging.Controllers.ValuesController|INfo
+2019-09-28 00:11:43.5897|WARN|Logging.Controllers.ValuesController|Warn
+2019-09-28 00:11:43.6017|ERROR|Logging.Controllers.ValuesController|Error
+2019-09-28 00:11:43.6017|FATAL|Logging.Controllers.ValuesController|Fatal
